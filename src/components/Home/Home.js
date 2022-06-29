@@ -13,7 +13,7 @@ import {
 } from "react-icons/si";
 
 const sendEmail = () => {    
-  window.open("mailto:danielgilbert0407@gmail.com?subject=Contact");
+  window.open("mailto:hirotosanzo1014@gmail.com?subject=Contact");
 };
 
 function Home() {
@@ -32,7 +32,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                <strong className="main-name"> Daniel Gilbert</strong>
+                <strong className="main-name"> Hiroto Sanzo</strong>
               </h1>
 
               <div style={{ paddingLeft: 50, paddingBottom: 50, textAlign: "left" }}>
@@ -74,7 +74,7 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/daniel-gilbert-3a9845243/"
+                  href="https://www.linkedin.com/in/hiroto-sanzo-86a346239/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -84,7 +84,7 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://t.me/CandyDEV0407"
+                  href="https://t.me/CandyDEV1014"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

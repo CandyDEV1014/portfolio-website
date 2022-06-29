@@ -15,7 +15,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Daniel Gilbert</h3>
+          <h3>Designed and Developed by Hiroto Sanzo</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} DG</h3>
@@ -34,7 +34,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/daniel-gilbert-3a9845243/"
+                href="https://www.linkedin.com/in/hiroto-sanzo-86a346239/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -44,7 +44,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://t.me/CandyDEV0407"
+                href="https://t.me/CandyDEV1014"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
